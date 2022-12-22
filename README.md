@@ -19,6 +19,8 @@ pkg install string
 
 pkg install time
 
+pkg install bash
+
 git clone https://github.com/PEDRONKA626/Nitro-Gen-Checker-Thzin.git
 
 cd Nitro-Gen-Checker-Thzin
