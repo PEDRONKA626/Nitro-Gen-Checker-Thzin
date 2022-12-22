@@ -9,8 +9,6 @@ pkg install python
 
 pkg install python2
 
-pkg install python3
-
 pip install -r requerimentos.txt
 
 git clone https://github.com/PEDRONKA626/Nitro-Gen-Checker-Thzin.git
