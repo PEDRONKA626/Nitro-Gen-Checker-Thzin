@@ -3,6 +3,19 @@ import random
 import string
 import time
 
+print("""Thzin Gen V1""")
+time.sleep(2)
+print("NITRO.CODES.txt/valid")
+time.sleep(0.3)
+print("Thzin Nitro Gen Checker")
+time.sleep(0.2)
+print("CARREGANDO...")
+time.sleep(0.2)
+print("50% CARREGADO")
+time.sleep(0.8)
+print("100% CARREGADO")
+time.sleep(0.8)
+
 num = int(input('Insira quantos códigos voce quer gerar e verifique: '))
 
 with open("Nitro Codes.txt", "w", encoding='utf-8') as file:
